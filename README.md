@@ -17,7 +17,6 @@ Analyzed and visualized 3+ years of retail sales data to uncover insights and tr
 - `extended_cleaned_sales_data.csv` – Cleaned dataset
 - `retail_sales_dashboard.pbix` – Power BI Dashboard
 - `forecast_sales.ipynb` – Python sales forecasting
-- `dashboard_screenshot.png` – Final dashboard image
 
 ## 📈 Tools Used
 Power BI, Python, Pandas, Statsmodels, Excel
